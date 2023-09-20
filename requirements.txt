@@ -1,0 +1,6 @@
+pillow
+uvicorn
+fastapi
+python-multipart
+tensorflow
+typing-extensions==4.6.1
